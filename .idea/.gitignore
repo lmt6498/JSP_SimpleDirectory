@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../simple-dictionary-jsp\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../:\JavaProject\simple-dictionary-jsp\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
